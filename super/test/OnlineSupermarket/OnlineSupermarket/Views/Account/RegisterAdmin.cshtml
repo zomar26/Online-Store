@@ -1,0 +1,48 @@
+﻿@model OnlineSupermarket.Models.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = " تسجيل حساب ادمن";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="RegisterAdmin" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EmailOrPhone"></label>
+        <input asp-for="EmailOrPhone" class="form-control" />
+        <span asp-validation-for="EmailOrPhone" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ConfirmPassword"></label>
+        <input asp-for="ConfirmPassword" class="form-control" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">تسجيل</button>
+</form>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial"></partial>
+}

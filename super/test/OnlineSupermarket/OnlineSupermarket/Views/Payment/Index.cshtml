@@ -1,0 +1,31 @@
+﻿@model IEnumerable<OnlineSupermarket.Models.Payment>
+
+@{
+    ViewData["Title"] = "Payment Records";
+}
+
+<h2 class="text-center mt-4">📋 Payment Records</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Method</th>
+            <th>Card Number</th>
+            <th>Cardholder</th>
+            <th>Expiry</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.PaymentMethod</td>
+                <td>@item.CardNumber</td>
+                <td>@item.CardHolderName</td>
+                <td>@item.ExpiryDate</td>
+                <td>@item.Date.ToString("g")</td>
+            </tr>
+        }
+    </tbody>
+</table>

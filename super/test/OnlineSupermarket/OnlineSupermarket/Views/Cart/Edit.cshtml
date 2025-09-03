@@ -1,0 +1,21 @@
+﻿@model OnlineSupermarket.Models.CartItem
+
+<h3>Edit Cart Item</h3>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group mb-3">
+        <label asp-for="Quantity" class="form-label">Quantity</label>
+        <input asp-for="Quantity" class="form-control" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial"></partial>
+}

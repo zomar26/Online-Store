@@ -1,0 +1,19 @@
+﻿@model OnlineSupermarket.Models.Category
+
+@{
+    ViewData["Title"] = "Category Details";
+}
+
+<h2 class="text-center mt-4 mb-4">📋 Category Details</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Category Name:</h5>
+        <p class="card-text">@Model.Name</p>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning me-2">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

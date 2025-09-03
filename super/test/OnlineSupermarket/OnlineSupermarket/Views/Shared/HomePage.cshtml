@@ -1,0 +1,27 @@
+﻿<html lang="ar" dir="ltr">
+    <partial name="_HeadHome"></partial>
+<body>
+        <partial name="_NavBar"></partial>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="overlay"></div>
+        <div class="hero-content">
+            <h1 class="animate-title">تسوق أونلاين بأفضل الأسعار</h1>
+            <p class="animate-subtitle">اختر طريقتك، إدارة المتجر أو التسوق السريع</p>
+            <div class="hero-buttons"> 
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    <a asp-action="Login" asp-controller="Account" class="btn btn-gold animate-btn">التسوق الآن</a>
+                    <a class="btn btn-gray animate-btn" asp-action="Login" asp-controller="Account">إدارة كـ أدمن</a>
+                }
+                else
+                {
+                    <a asp-action="Index" asp-controller="Product" class="btn btn-gold animate-btn">التسوق الآن</a>
+                }            
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

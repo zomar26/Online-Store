@@ -1,0 +1,11 @@
+﻿@model OnlineSupermarket.Models.CartItem
+
+<h3>Cart Item Details</h3>
+
+<table class="table">
+    <tr><th>Product</th><td>@Model.Product?.Name</td></tr>
+    <tr><th>Price</th><td>@Model.Product?.Price.ToString("C")</td></tr>
+    <tr><th>Quantity</th><td>@Model.Quantity</td></tr>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Back to Cart</a>

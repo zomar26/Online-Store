@@ -1,0 +1,38 @@
+﻿@model IEnumerable<OnlineSupermarket.Models.Category>
+
+@{
+    ViewData["Title"] = "Categories";
+    //Layout = "_Layout2";
+}
+
+<h2 class="text-center mt-4 mb-4">📂 Categories</h2>
+
+<div class="mb-3 text-end">
+    @if (User.IsInRole("Admin")) {
+        <a asp-action="Create" class="btn btn-success">➕ Add New Category</a>
+    }
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Category Name</th>
+            <th style="width: 200px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm me-1">Details</a>
+                    @if(User.IsInRole("Admin")){
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm me-1">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm me-1">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,18 @@
+﻿@model OnlineSupermarket.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2 class="text-center mt-4 mb-4">📄 Product Details</h2>
+
+<div class="card mx-auto" style="width: 30rem;">
+    <img src="/@Model.ImageUrl" class="card-img-top" alt="@Model.Name" />
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <p class="card-text"><strong>Price:</strong> @Model.Price.ToString("C")</p>
+        <p class="card-text"><strong>Category:</strong> @Model.Category?.Name</p>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

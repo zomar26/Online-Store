@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineSupermarket.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineSupermarket.r4l1vttodz.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\1eb6cfff-ac12-48b9-9016-aab34be57679.png",
+      "PackagePath": "staticwebassets\\images\\1eb6cfff-ac12-48b9-9016-aab34be57679.png"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\2a8e9dd6-814f-4176-8ec5-cb130691a4ef.jpeg",
+      "PackagePath": "staticwebassets\\images\\2a8e9dd6-814f-4176-8ec5-cb130691a4ef.jpeg"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\2b97affc-7194-48d4-a931-ec70a422cbf7.jpg",
+      "PackagePath": "staticwebassets\\images\\2b97affc-7194-48d4-a931-ec70a422cbf7.jpg"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\3d69b43c-4866-411e-b66d-856d612e6c3d.jpeg",
+      "PackagePath": "staticwebassets\\images\\3d69b43c-4866-411e-b66d-856d612e6c3d.jpeg"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\4ec41f94-3ec5-4f10-9ad1-78520ffde786.jpg",
+      "PackagePath": "staticwebassets\\images\\4ec41f94-3ec5-4f10-9ad1-78520ffde786.jpg"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\74484e48-34b2-4654-8693-e72880c3edd1.jpeg",
+      "PackagePath": "staticwebassets\\images\\74484e48-34b2-4654-8693-e72880c3edd1.jpeg"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\bb76ef47-b3e5-42fe-bc2d-65d473a364b1.jpeg",
+      "PackagePath": "staticwebassets\\images\\bb76ef47-b3e5-42fe-bc2d-65d473a364b1.jpeg"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\d505b54f-623a-43a2-87e7-d0e45dafc601.jpeg",
+      "PackagePath": "staticwebassets\\images\\d505b54f-623a-43a2-87e7-d0e45dafc601.jpeg"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\images\\ecedbd30-cf31-4c4d-9ae0-b460ba8c80b9.png",
+      "PackagePath": "staticwebassets\\images\\ecedbd30-cf31-4c4d-9ae0-b460ba8c80b9.png"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\my corse\\ITI Internship\\mvc\\ITI_MVC\\7\\Final\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineSupermarket.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineSupermarket.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineSupermarket.props",
+      "PackagePath": "build\\OnlineSupermarket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineSupermarket.props",
+      "PackagePath": "buildMultiTargeting\\OnlineSupermarket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineSupermarket.props",
+      "PackagePath": "buildTransitive\\OnlineSupermarket.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

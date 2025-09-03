@@ -1,0 +1,66 @@
+﻿@model IEnumerable<OnlineSupermarket.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h2 class="text-center mt-4 mb-4">🛒 Available Products</h2>
+
+<div class="mb-3 text-end">
+    @if (User.IsInRole("Admin"))
+    {
+            <a asp-action="Create" class="btn btn-success">➕ Add New Product</a>
+    }
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Category</th>
+            <th>Image</th>
+            <th style="width: 200px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@item.Price.ToString("C")</td>
+                            <td>@item.Description</td>
+                            <td>@item.Category?.Name</td>
+                            <td><img src="@item.ImageUrl" alt="@item.Name" width="60" height="60" /></td>
+                            <td>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm me-1">Details</a>
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm me-1">Edit</a>
+                                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm me-1">Delete</a>
+                        }
+
+                        @if (!User.IsInRole("Admin"))
+                        {
+                                        <form asp-controller="Cart" asp-action="AddToCart" method="post" class="d-inline">
+                                            <input type="hidden" name="id" value="@item.Id" />
+                                            <input type="number" name="quantity" value="1" min="1" class="form-control d-inline" style="width: 70px;" />
+                                            <button type="submit" class="btn btn-primary btn-sm">Add to Cart</button>
+                                        </form>
+                        }
+                            </td>
+                        </tr>
+            }
+        }
+        else
+        {
+                <tr>
+                    <td colspan="6" class="text-center">No products available.</td>
+                </tr>
+        }
+    </tbody>
+</table>

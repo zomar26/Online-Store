@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Online Supermarket</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+</head>
+<body>
+    <main role="main" class="main-content">
+        @RenderBody()
+    </main>
+
+    <footer class="site-footer">
+        <p>© 2025 Online Supermarket - All rights reserved.</p>
+    </footer>
+
+    <script src="~/js/site.js"></script>
+    @RenderSection("Scripts", required: false)
+    <script>
+        AOS.init({ duration: 800, once: true });
+    </script>
+    
+
+</body>
+</html>

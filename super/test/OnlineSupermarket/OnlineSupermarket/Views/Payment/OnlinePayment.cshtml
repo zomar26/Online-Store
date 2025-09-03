@@ -1,0 +1,47 @@
+﻿@model OnlineSupermarket.Models.Payment
+
+@{
+    ViewData["Title"] = "Online Payment";
+}
+
+<h2 class="text-center">💳 Online Payment</h2>
+
+<form asp-action="OnlinePayment" method="post" class="mt-4">
+    <div class="mb-3">
+        <label asp-for="PaymentMethod" class="form-label">Payment Method</label>
+        <input asp-for="PaymentMethod" class="form-control" />
+        <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CardNumber" class="form-label">Card Number</label>
+        <input asp-for="CardNumber" class="form-control" />
+        <span asp-validation-for="CardNumber" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CardHolderName" class="form-label">Cardholder Name</label>
+        <input asp-for="CardHolderName" class="form-control" />
+        <span asp-validation-for="CardHolderName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ExpiryDate" class="form-label">Expiry Date</label>
+        <input asp-for="ExpiryDate" class="form-control" placeholder="MM/YY" />
+        <span asp-validation-for="ExpiryDate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CVV" class="form-label">CVV</label>
+        <input asp-for="CVV" class="form-control" maxlength="4" />
+        <span asp-validation-for="CVV" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">💰 Pay Now</button>
+</form>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial"></partial>
+}
