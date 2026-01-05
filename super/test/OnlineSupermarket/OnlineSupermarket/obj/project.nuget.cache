@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nUW9GwxMqU4=",
+  "dgSpecHash": "VkX/rHz0778=",
   "success": true,
-  "projectFilePath": "C:\\Users\\omare\\OneDrive\\سطح المكتب\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\OnlineSupermarket.csproj",
+  "projectFilePath": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\OnlineSupermarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omare\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\omare\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

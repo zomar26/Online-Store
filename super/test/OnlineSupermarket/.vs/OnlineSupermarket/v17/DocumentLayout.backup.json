@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\",
+  "WorkspaceRootPath": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\payment\\onlinepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\payment\\onlinepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\payment\\onlinepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\payment\\onlinepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|c:\\users\\omare\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\iti\\super2\\super2\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|d:\\git\\online\\super\\test\\onlinesupermarket\\onlinesupermarket\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5F5E1B-BCE3-4BCE-BE42-EA06AE5451FB}|OnlineSupermarket\\OnlineSupermarket.csproj|solutionrelative:onlinesupermarket\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,24 +74,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Cart\\Edit.cshtml",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Cart\\Edit.cshtml",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Views\\Cart\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Cart\\Edit.cshtml",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Cart\\Edit.cshtml",
               "RelativeToolTip": "OnlineSupermarket\\Views\\Cart\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T08:52:25.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T08:52:25.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OnlinePayment.cshtml",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Payment\\OnlinePayment.cshtml",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Payment\\OnlinePayment.cshtml",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Views\\Payment\\OnlinePayment.cshtml",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Payment\\OnlinePayment.cshtml",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Payment\\OnlinePayment.cshtml",
               "RelativeToolTip": "OnlineSupermarket\\Views\\Payment\\OnlinePayment.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -99,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Product\\Edit.cshtml",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "OnlineSupermarket\\Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -111,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "OnlineSupermarket\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -123,11 +122,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Category\\Edit.cshtml",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Category\\Edit.cshtml",
               "RelativeToolTip": "OnlineSupermarket\\Views\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -135,11 +134,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Category\\Create.cshtml",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "OnlineSupermarket\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -147,23 +146,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "OnlineSupermarket\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T08:47:36.117Z"
+              "WhenOpened": "2025-08-14T08:47:36.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Product.cs",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Product.cs",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Product.cs",
               "RelativeToolTip": "OnlineSupermarket\\Models\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Payment.cs",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Payment.cs",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Payment.cs",
               "RelativeToolTip": "OnlineSupermarket\\Models\\Payment.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwCUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\OrderItem.cs",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\OrderItem.cs",
               "RelativeToolTip": "OnlineSupermarket\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,9 +197,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Category.cs",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Category.cs",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Category.cs",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\Category.cs",
               "RelativeToolTip": "OnlineSupermarket\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,16 +207,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\CartItem.cs",
+              "DocumentMoniker": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "OnlineSupermarket\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\omare\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ITI\\super2\\super2\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\CartItem.cs",
+              "ToolTip": "D:\\git\\Online\\super\\test\\OnlineSupermarket\\OnlineSupermarket\\Models\\CartItem.cs",
               "RelativeToolTip": "OnlineSupermarket\\Models\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T07:30:57.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T07:30:57.949Z"
             }
           ]
         },
